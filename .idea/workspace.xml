@@ -5,29 +5,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="80be4758-70e8-4983-8643-a5a79a1d5b37" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator1/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator1/CalculatorT1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator1/Class Hierarchy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator1/CosFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator1/FactorialFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator1/LogFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator1/MathFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator1/SinFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator1/SquaredFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator1/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/AbstractMathFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/CalculatorT1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/CosFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/FactorialFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/LogFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/MathFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/SinFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/SquaredFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ch10/shape/Class Hierarchy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator4/AbstractMathFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator4/AddFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator4/AverageFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator4/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator4/CalculatorT1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator4/CosFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator4/FactorialFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator4/MathFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator4/MultiplyFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ch10/math/calculator4/Test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10/math/calculator2/CosFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/CosFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ch10/math/calculator2/SinFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ch10/math/calculator2/SinFunction.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,6 +63,7 @@
       <recent name="D:\_Yazilim\Akin Kaldiroglu Trainings\UPOD\UpodMyPractices\src\ch10\math\calculator2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\_Yazilim\Akin Kaldiroglu Trainings\UPOD\UpodMyPractices\src\ch10\math\calculator2" />
       <recent name="D:\_Yazilim\Akin Kaldiroglu Trainings\UPOD\UpodMyPractices\src\ch10\math\calculator1" />
       <recent name="D:\_Yazilim\Akin Kaldiroglu Trainings\UPOD\UpodMyPractices\src\ch10\shape" />
     </key>
@@ -88,7 +79,8 @@
       <workItem from="1738582544601" duration="4142000" />
       <workItem from="1738659957989" duration="11000" />
       <workItem from="1738671974221" duration="6696000" />
-      <workItem from="1738679515021" duration="300000" />
+      <workItem from="1738679515021" duration="2744000" />
+      <workItem from="1738746507107" duration="3244000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1738672015932</created>
@@ -97,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1738672015932</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="interface and abstract class practices">
+      <created>1738679885327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1738679885327</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +104,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="interface and abstract class practices" />
+    <option name="LAST_COMMIT_MESSAGE" value="interface and abstract class practices" />
   </component>
 </project>
